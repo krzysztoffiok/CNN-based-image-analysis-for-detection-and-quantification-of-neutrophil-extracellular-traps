@@ -16,3 +16,5 @@ The dataset is divided into 4 .zip files containing:
 Example detections carried out by the model described in paper:
 
 <img src="https://github.com/krzysztoffiok/CNN-based-image-analysis-for-detection-and-quantification-of-neutrophil-extracellular-traps/blob/master/images/4_2%20Per%202h%20006_scale.jpg" width=640 height=512>
+
+<img src="https://github.com/krzysztoffiok/CNN-based-image-analysis-for-detection-and-quantification-of-neutrophil-extracellular-traps/blob/master/images/4_4%20Per%202h%20002_scale.jpg" width=640 height=512>
