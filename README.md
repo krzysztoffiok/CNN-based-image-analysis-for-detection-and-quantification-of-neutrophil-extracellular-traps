@@ -12,3 +12,7 @@ The dataset is divided into 4 .zip files containing:
 - large_validation_set.zip - images and annotations (in pascalvoc xml format and mscoco json format) used for validation of the model after training procedure was completed;
 - for_coco_evaluation.zip - small set of images for evaluation; and
 - in the "release" section "original_uncompressed_images_with_pascalvoc_annotations.zip" containing uncompressed images used for training of the model can be found.
+
+Example detections carried out by the model described in paper:
+
+<img_src="https://github.com/krzysztoffiok/CNN-based-image-analysis-for-detection-and-quantification-of-neutrophil-extracellular-traps/blob/master/images/4_2%20Per%202h%20006_scale.jpg">
