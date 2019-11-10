@@ -8,7 +8,7 @@ Aneta Manda-Handzlik1,2, Krzysztof Fiok3, Adrianna Cieloch1, Edyta Heropolitańs
 4: Department of Immunology, The Children's Memorial Health Institute, Aleja Dzieci Polskich 20, 04-730, Warsaw, Poland
 
 The dataset is divided into 4 .zip files containing:
-train_val_split_used_for_training.zip - images and annotations (in mscoco json format) used during training of the model described in paper
-large_validation_set.zip - images and annotations (in pascalvoc xml format and mscoco json format) used for validation of the model after training procedure was completed
-for_coco_evaluation.zip - small set of images for evaluation
-in the "release" section "original_uncompressed_images_with_pascalvoc_annotations.zip" containing uncompressed images used for training of the model can be found.
+- train_val_split_used_for_training.zip - images and annotations (in mscoco json format) used during training of the model described in paper;
+- large_validation_set.zip - images and annotations (in pascalvoc xml format and mscoco json format) used for validation of the model after training procedure was completed;
+- for_coco_evaluation.zip - small set of images for evaluation; and
+- in the "release" section "original_uncompressed_images_with_pascalvoc_annotations.zip" containing uncompressed images used for training of the model can be found.
