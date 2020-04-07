@@ -1,5 +1,6 @@
 # Convolutional-neural-networks-based-image-analysis-for-detection-and-quantification-of-neutrophil-ex
-Repository containing dataset of images used in paper "Convolutional neural networks-based image analysis for detection and quantification of neutrophil extracellular traps" (in preparation)</br>
+Repository containing dataset of images used in:
+Manda-Handzlik, A., Fiok, K., Cieloch, A., Heropolitanska-Pliszka, E., & Demkow, U. (2020). Convolutional Neural Networks–Based Image Analysis for the Detection and Quantification of Neutrophil Extracellular Traps. Cells, 9(2), 508.</br>
 
 Authors:
 Aneta Manda-Handzlik1,2, Krzysztof Fiok3, Adrianna Cieloch1, Edyta Heropolitańska-Pliszka4 and Urszula Demkow1 </br>
